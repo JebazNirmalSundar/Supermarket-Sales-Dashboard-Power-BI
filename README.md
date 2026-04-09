@@ -27,7 +27,7 @@ This project presents an interactive Supermarket Sales Dashboard developed using
 
 ## Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Supermarket Sales Dashboard.jpg)
 
 ## Project Outcome
 
