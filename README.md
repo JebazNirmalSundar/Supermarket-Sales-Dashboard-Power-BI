@@ -27,7 +27,7 @@ This project presents an interactive Supermarket Sales Dashboard developed using
 
 ## Dashboard Preview
 
-Supermarket Sales Dashboard.jpg
+Supermarket-Sales-Dashboard-Power-BI
 
 ## Project Outcome
 
