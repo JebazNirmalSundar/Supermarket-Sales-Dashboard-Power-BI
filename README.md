@@ -26,7 +26,7 @@ This project presents an interactive Supermarket Sales Dashboard developed using
 - Supported inventory and sales strategy planning
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard.jpg)
+![Dashboard Screenshot](dashboard.png)
 
 ## Project Outcome
 
